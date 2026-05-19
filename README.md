@@ -1,8 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV
-## Program Developed By:SRI HARI KRSISHNA DT 
-### Name: SRI HARI KRSISHNA DT 
-
-### Register Number: 212224240160
+## Name: SRI HARI KRSISHNA DT 
+## Register Number: 212224240160
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
